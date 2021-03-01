@@ -23,5 +23,5 @@ int mul(int a, int b)
 {
    int produto;
    produto = a*b;
-   return produto;/ TODO: fix
+   return produto; // TODO: fix
 }
